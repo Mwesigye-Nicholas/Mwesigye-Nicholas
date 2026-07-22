@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mwesigye-Nicholas&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mwesigye-Nicholas&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophies.vercel.app/?username=Mwesigye-Nicholas&theme=onedark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mwesigye-Nicholas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwesigye-Nicholas&layout=compact&theme=onedark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mwesigye-Nicholas&icon=0&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Mwesigye-Nicholas&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
